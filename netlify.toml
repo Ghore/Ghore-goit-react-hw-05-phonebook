@@ -1,0 +1,7 @@
+[build]
+publisht = "build"
+
+[[redurects]]
+from = "/*"
+to = '/index.html'
+status = 200
